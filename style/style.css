@@ -2,3 +2,20 @@
     padding: 0;
     margin: 0;
 }
+
+.container {
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.left-side {
+    background-color: aqua;
+}
+.main {
+    background-color: black;
+}
+.right-side {
+    background-color: brown;
+}
